@@ -1,0 +1,25 @@
+¿Qué es la inteligencia artificial?
+
+La inteligencia artificial (IA) es una rama de la informática que desarrolla sistemas capaces de realizar tareas que normalmente requieren inteligencia humana, como aprender, razonar, reconocer imágenes, comprender lenguaje o tomar decisiones.
+
+¿Cómo puede ayudar a un desarrollador?
+
+La inteligencia artificial puede ayudar a escribir código, detectar errores, explicar conceptos de programación, generar documentación, sugerir mejoras y automatizar tareas repetitivas, aumentando la productividad del desarrollador.
+
+¿Cuáles son sus ventajas y limitaciones?
+
+Ventajas
+
+- Automatiza tareas repetitivas.
+- Aumenta la productividad.
+- Ayuda a resolver problemas más rápidamente.
+- Facilita el aprendizaje y la búsqueda de información.
+- Puede analizar grandes cantidades de datos en poco tiempo.
+
+Limitaciones
+
+- Puede cometer errores o generar información incorrecta.
+- Depende de la calidad de los datos con los que fue entrenada.
+- No reemplaza el criterio ni la creatividad humana.
+- Puede presentar sesgos en sus respuestas.
+- Requiere supervisión para garantizar resultados confiables.

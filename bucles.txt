@@ -1,0 +1,11 @@
+¿Qué es un bucle?
+
+Un bucle es una estructura de programación que permite repetir un conjunto de instrucciones varias veces, ya sea un número determinado de veces o hasta que se cumpla una condición.
+
+¿Para qué sirve?
+
+Los bucles sirven para automatizar tareas repetitivas, evitando escribir el mismo código varias veces. Esto hace que los programas sean más eficientes y fáciles de mantener.
+
+Actividad repetitiva de la vida cotidiana
+
+Un ejemplo es lavar una pila de platos. Se repite la misma acción (lavar un plato) hasta que ya no queden platos sucios.
