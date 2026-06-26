@@ -1,6 +1,6 @@
 ¿Qué es un bucle?
 
-Un bucle es una estructura de programación que permite repetir un conjunto de instrucciones varias veces, ya sea un número determinado de veces o hasta que se cumpla una condición.
+Un bucle es una estructura de programación que permite repetir un conjunto de instrucciones varias veces, ya sea como un número determinado de veces o hasta que se cumpla una condición.
 
 ¿Para qué sirve?
 
