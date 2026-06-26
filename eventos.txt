@@ -1,0 +1,13 @@
+¿Qué es un evento?
+
+Un evento es una acción o suceso que ocurre en un programa y que provoca que se ejecute una determinada función o respuesta. Los eventos pueden ser generados por el usuario o por el propio sistema.
+
+¿Dónde se utilizan los eventos?
+
+Los eventos se utilizan en aplicaciones de escritorio, aplicaciones móviles, videojuegos, páginas web y cualquier software interactivo donde el usuario realiza acciones.
+
+Tres ejemplos de eventos
+
+- Hacer clic en un botón de una página web.
+- Presionar una tecla del teclado.
+- Enviar un formulario después de completar los datos.
