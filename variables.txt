@@ -1,0 +1,13 @@
+¿Qué es una variable?
+
+Es un espacio donde se almacena información para poder utilizarla posteriormente.
+
+¿Para qué sirven las variables?
+
+Sirven para guardar datos que pueden cambiar durante la ejecución de un programa.
+
+Tres ejemplos:
+
+- Nombre de un usuario.
+- Edad.
+- Puntaje de un videojuego.
