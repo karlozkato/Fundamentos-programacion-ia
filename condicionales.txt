@@ -1,0 +1,11 @@
+¿Qué es un condicional?
+
+Un condicional es una estructura de programación que permite que un programa tome decisiones dependiendo de si una condición es verdadera o falsa. Gracias a los condicionales, el programa puede ejecutar diferentes acciones según la situación.
+
+¿Para qué sirve?
+
+Los condicionales sirven para controlar el flujo de un programa y hacer que responda de manera diferente según determinadas condiciones. Son fundamentales para crear programas interactivos y resolver problemas que requieren tomar decisiones.
+
+Situación cotidiana
+
+Un ejemplo cotidiano es el semáforo de un peatón. Si la luz está en verde, la persona puede cruzar la calle; si está en rojo, debe esperar. La decisión depende de una condición.
